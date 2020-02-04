@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matthewstaton.github.io.git/static/css/main.818b527f.chunk.css",
+    "main.js": "/matthewstaton.github.io.git/static/js/main.ae6107ee.chunk.js",
+    "main.js.map": "/matthewstaton.github.io.git/static/js/main.ae6107ee.chunk.js.map",
+    "runtime-main.js": "/matthewstaton.github.io.git/static/js/runtime-main.5ee330ae.js",
+    "runtime-main.js.map": "/matthewstaton.github.io.git/static/js/runtime-main.5ee330ae.js.map",
+    "static/js/2.1eda45b2.chunk.js": "/matthewstaton.github.io.git/static/js/2.1eda45b2.chunk.js",
+    "static/js/2.1eda45b2.chunk.js.map": "/matthewstaton.github.io.git/static/js/2.1eda45b2.chunk.js.map",
+    "index.html": "/matthewstaton.github.io.git/index.html",
+    "precache-manifest.e799b2012b62f6beec9b7d55753e0264.js": "/matthewstaton.github.io.git/precache-manifest.e799b2012b62f6beec9b7d55753e0264.js",
+    "service-worker.js": "/matthewstaton.github.io.git/service-worker.js",
+    "static/css/main.818b527f.chunk.css.map": "/matthewstaton.github.io.git/static/css/main.818b527f.chunk.css.map",
+    "static/js/2.1eda45b2.chunk.js.LICENSE.txt": "/matthewstaton.github.io.git/static/js/2.1eda45b2.chunk.js.LICENSE.txt",
+    "static/media/Profile_Pic.jpg": "/matthewstaton.github.io.git/static/media/Profile_Pic.ff0e1f25.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee330ae.js",
+    "static/js/2.1eda45b2.chunk.js",
+    "static/css/main.818b527f.chunk.css",
+    "static/js/main.ae6107ee.chunk.js"
+  ]
+}
